@@ -41,6 +41,23 @@ html, body {
 	width: 100%;
       z-index: 999999;
   }
+  .bg-blue{
+    background: #08265c;
+    border-radius: 3px;
+    opacity: .8;
+
+  }
+  .z-index{
+    position: absolute;
+    z-index: 999999;
+    margin:10px;
+  }
+  .z-index img{
+    width: 220px;
+  }
+  .mt-15{
+    margin-top:10rem !important
+  }
   .canvas{
     position: absolute;
     width: 100%;
